@@ -1,2 +1,3 @@
+include ':instatag'
 include ':app'
 rootProject.name = "Text inImage"
